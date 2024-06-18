@@ -1,4 +1,8 @@
 # CodeIgniter 4 Application Starter
+![Screenshot 2024-06-18 152820](https://github.com/adnamard/Sikos-/assets/154016314/3bfbeea4-c690-42a9-85fd-9ce11bdb9b6f)
+![Screenshot 2024-06-18 152616](https://github.com/adnamard/Sikos-/assets/154016314/700807f2-dbf8-47cd-8c9b-29a4e5dba854)
+![Screenshot 2024-06-18 152440](https://github.com/adnamard/Sikos-/assets/154016314/80d6e43f-4e60-4e13-a14f-6ce2f0f50894)
+![Screenshot 2024-06-18 152837](https://github.com/adnamard/Sikos-/assets/154016314/f56a2cc5-58b0-4186-be84-fb5dbe055856)
 
 ## What is CodeIgniter?
 
