@@ -1,0 +1,153 @@
+body {
+    background-color: #6B8A7A;
+}
+
+/* Ensure that the navbar items are centered */
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* Ensure that the image is aligned with the text */
+.navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+}
+
+/* Optional: Style for the navbar background and text color */
+.navbar {
+    background-color: rgba(255, 255, 255, 0.4); /* Customize the background color */
+}
+
+.nav-link {
+    color: #000; /* Customize the text color */
+}
+
+
+/* Adjust the height of the carousel */
+.carousel-inner {
+    height: 50vh;
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+
+body.auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #6B8A7A;
+}
+.container-auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.auth-form {
+    background-color: white;
+    padding: 30px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Typography Section */
+#typography {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 50px 0;
+}
+
+.brand-name {
+    font-family: 'Dancing Script', cursive; /* Calligraphy-style font */
+    font-size: 3rem;
+    color: #cecece;
+    margin-bottom: 20px;
+}
+
+.brand-description {
+    font-size: 1.25rem;
+    color: #cecece;
+}
+
+/* Card Styling */
+
+.card {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card-body {
+    background: #f8f9fa;
+    padding: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #333;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.book-now {
+    border-color: #6B8A7A;
+    color: #6B8A7A;
+}
+
+.book-now:hover {
+    background-color: #6B8A7A;
+    color: #fff;
+}
+
+.btn-group .btn {
+    font-size: 0.8rem;
+}
+
+.modal-header, .modal-body, .modal-footer {
+    padding: 20px;
+}
+
+.modal-title {
+    font-weight: 700;
+}
+
+.modal-body img {
+    border-radius: 10px;
+}
+
+h2.text-center {
+    font-weight: 700;
+    color: #333;
+}
+
+.d-flex.justify-content-between {
+    margin-bottom: 0.5rem;
+}
